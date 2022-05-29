@@ -2,3 +2,4 @@ mongo/mongo-data
 redis/redis-data
 mysql/mysql-data
 postgresql/postgres-data
+rabbitmq/rabbitmq
