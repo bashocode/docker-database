@@ -11,4 +11,6 @@ cd ..
 cd redis && docker-compose up -d
 cd ..
 cd rabbitmq && docker-compose up -d
+cd ..
+cd kafka && docker-compose up -d
 ```
