@@ -3,3 +3,6 @@ redis/redis-data
 mysql/mysql-data
 postgresql/postgres-data
 rabbitmq/rabbitmq
+rabbitmq/.DS_Store
+.DS_Store
+kafka/kafka-data
